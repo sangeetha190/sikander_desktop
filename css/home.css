@@ -1246,9 +1246,9 @@ span.text-purple.fs-11.fw-650 {
     top: -34px;
   }
 
-  .page-header.is-sticky img.logo_xnew.position-relative {
+  /* .page-header.is-sticky img.logo_xnew.position-relative {
     top: 10px;
-  }
+  } */
   .lap-bg-purple {
     background:rgba(23, 0, 38, 1) ;
   }
