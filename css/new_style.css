@@ -452,4 +452,10 @@ button#pills-home-tab.schedule.active {
     font-size: 13px;
   
   }
+
+  .purplebg_yellow_container swiper-container, .tab-pane swiper-container {
+    margin: 5px 3px -15px !important;
+}
+  
+
 }
