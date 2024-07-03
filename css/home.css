@@ -1226,7 +1226,7 @@ span.text-purple.fs-11.fw-650 {
     margin-right: 4px !important;
   }
   swiper-container.mySwiper.table-slidepop swiper-slide {
-    width: 38% !important;
+    width: 36% !important;
     margin-right: 10px !important;
   }
 
@@ -1481,7 +1481,7 @@ nav.navbar.navbar-expand-lg.bg-purple.br-yellow {
 
 @media(min-width:1100px) and (max-width:1199px){
   swiper-container.mySwiper.button-slider swiper-slide {
-    width: 9% !important;
-    margin-right: 4px !important;
+    width: 8.7% !important;
+    margin-right: 6px !important;
 }
 }
