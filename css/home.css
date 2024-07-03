@@ -1326,18 +1326,15 @@ a.btn.btn-sm.btn-grnd.text-white.fs-12.d-flex.align-items-center {
 
   
 
+
 .lap-btnpurple{
-  width: 100px !important;
-  height: 30px;
+  width: 90% !important;
+  height: 33px;
   border-radius: 22px;
+  font-size: 12px !important;
 }
 
 
-button.btn-yellow.br-5.w-100.fs-9.fw-700.pop-btn.text-black.lap-btnpurple{
-  width: 100px !important;
-  height: 30px;
-  border-radius: 22px;
-}
 
 .bg-lightred.br-5.w-100.fs-10.fw-700 {
   width: 100px !important;
@@ -1347,9 +1344,22 @@ button.btn-yellow.br-5.w-100.fs-9.fw-700.pop-btn.text-black.lap-btnpurple{
 .topheader_lap{
   margin-top: 76px !important;
 }
+
+
+button.btn-purple.text-yellow.br-5.w-100.fs-9.fw-700.pop-btn {
+  font-size: 9px !important;
+  border: 1px solid #000;
+  text-transform: uppercase;
+  width: 70px !important;
+  height: 20px !important;
+}
   
   
 
+}
+
+.w-90{
+  width: 90% !important;
 }
 
 
