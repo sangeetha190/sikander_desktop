@@ -1465,11 +1465,23 @@ nav.navbar.navbar-expand-lg.bg-purple.br-yellow {
   background: #f2ff00 !important;
 }
 
-@media(min-width:993px) and (max-width:1150px){
+@media(min-width:993px) and (max-width:1199px){
   .col-xl-2.col-lg-3.mobile-tab-none.p-0{
     width: 21% !important;
   }
   .col-xl-10.col-lg-9.col-md-12.p-0.lap-wi-79{
    width: 79% !important;
   }
+  swiper-container.mySwiper.button-slider swiper-slide {
+    width: 10% !important;
+    margin-right: 4px !important;
+}
+}
+
+
+@media(min-width:1100px) and (max-width:1199px){
+  swiper-container.mySwiper.button-slider swiper-slide {
+    width: 9% !important;
+    margin-right: 4px !important;
+}
 }
