@@ -1311,6 +1311,38 @@ a.btn.btn-sm.btn-grnd.text-white.fs-12.d-flex.align-items-center {
   .d-flex.justify-content-center.mobile-90.laptop-190{
     margin-top: 170px !important;
   }
+
+  .bet-btn {
+    width: 55px !important;
+    height: 39px !important;}
+
+    button.bg-blue.br-5.w-100.fs-10.fw-700 {
+     
+      width: 80px !important;
+      height: 23px;
+     
+      /* margin-bottom: 10px; */
+  }
+
+  
+
+.lap-btnpurple{
+  width: 100px !important;
+  height: 30px;
+  border-radius: 22px;
+}
+
+
+button.btn-yellow.br-5.w-100.fs-9.fw-700.pop-btn.text-black.lap-btnpurple{
+  width: 100px !important;
+  height: 30px;
+  border-radius: 22px;
+}
+
+.bg-lightred.br-5.w-100.fs-10.fw-700 {
+  width: 100px !important;
+  height: 21px;
+}
   
   
 
@@ -1440,6 +1472,9 @@ nav.navbar.navbar-expand-lg.bg-purple.br-yellow {
   .tabmx-w-100 {
     width: 100% !important;
   }
+  .mobile-none{
+display: none !important;
+  }
 }
 .list-text {
   font-size: 14px;
@@ -1485,3 +1520,30 @@ nav.navbar.navbar-expand-lg.bg-purple.br-yellow {
     margin-right: 6px !important;
 }
 }
+
+@media (min-width:1200px) {
+  
+
+  swiper-container.mySwiper.button-slider swiper-slide {
+    width: 8.7% !important;
+    margin-right: 6px !important;
+}
+
+}
+
+
+
+.card.mb-10.bs-b.br-0.b-0.px-1 {
+  z-index: 1;
+  border: 1px solid #6bc0ff;
+  outline: 1px solid #6bc0ff;
+}
+
+.card.mb-10.bs-b.br-0.b-0.px-1.br-red {
+  z-index: 1;
+  border: 1px solid #fe8282;
+  outline: 1px solid #fe8282;
+}
+
+
+
