@@ -1353,6 +1353,10 @@ button.btn-purple.text-yellow.br-5.w-100.fs-9.fw-700.pop-btn {
   width: 70px !important;
   height: 20px !important;
 }
+
+.row.justify-content-center.flex-wrap.px-3.py-2.pad-0  .col-4.d-flex.justify-content-center{
+  padding: 0 !important;
+}
   
   
 
