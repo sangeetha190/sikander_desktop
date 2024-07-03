@@ -1530,7 +1530,7 @@ display: none !important;
 
   swiper-container.mySwiper.button-slider swiper-slide {
     width: 8.7% !important;
-    margin-right: 6px !important;
+    margin-right: 0px !important;
 }
 
 .topheader_lap{
