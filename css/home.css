@@ -1180,6 +1180,10 @@ span.text-purple.fs-11.fw-650 {
     height: 35px;
   }
 }
+.mobile-90{
+  margin-top: 90px !important;
+}
+
 
 @media (min-width: 1000px) {
   .home-header {
@@ -1303,10 +1307,15 @@ a.btn.btn-sm.btn-grnd.text-white.fs-12.d-flex.align-items-center {
   .page-header.is-sticky{
     background: none !important;
   }
+
+  .d-flex.justify-content-center.mobile-90.laptop-190{
+    margin-top: 170px !important;
+  }
   
   
 
 }
+
 
 @media (min-width: 1300px) {
   swiper-container.mySwiper.button-slider swiper-slide {
