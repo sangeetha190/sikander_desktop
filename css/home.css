@@ -1343,6 +1343,10 @@ button.btn-yellow.br-5.w-100.fs-9.fw-700.pop-btn.text-black.lap-btnpurple{
   width: 100px !important;
   height: 21px;
 }
+
+.topheader_lap{
+  margin-top: 76px !important;
+}
   
   
 
@@ -1529,7 +1533,20 @@ display: none !important;
     margin-right: 6px !important;
 }
 
+.topheader_lap{
+  margin-top: 87px !important;
 }
+  
+
+}
+
+@media(min-width:1400px){
+  .topheader_lap {
+    margin-top: 98px !important;
+}
+}
+
+
 
 
 
